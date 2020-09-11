@@ -1,0 +1,10 @@
+C:\Users\kogma\source\repos\Gambler\bin\Debug\Gambler.exe.config
+C:\Users\kogma\source\repos\Gambler\bin\Debug\Gambler.exe
+C:\Users\kogma\source\repos\Gambler\bin\Debug\Gambler.pdb
+C:\Users\kogma\source\repos\Gambler\obj\Debug\Gambler.csprojAssemblyReference.cache
+C:\Users\kogma\source\repos\Gambler\obj\Debug\Gambler.Form1.resources
+C:\Users\kogma\source\repos\Gambler\obj\Debug\Gambler.Properties.Resources.resources
+C:\Users\kogma\source\repos\Gambler\obj\Debug\Gambler.csproj.GenerateResource.cache
+C:\Users\kogma\source\repos\Gambler\obj\Debug\Gambler.csproj.CoreCompileInputs.cache
+C:\Users\kogma\source\repos\Gambler\obj\Debug\Gambler.exe
+C:\Users\kogma\source\repos\Gambler\obj\Debug\Gambler.pdb
